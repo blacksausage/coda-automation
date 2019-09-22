@@ -17,6 +17,7 @@ FILET_MIGNON_STAKING_CHALLENGE = {
 
 # For Community Members
 OBSERVED_COMMUNITY_PUBLIC_KEYS = {
+    'tNci7iuDyJDhv6ZYZLJbHjgEaU5h3s3nsKvJppxibw64St1nhXcjaJAvWmK4WPKHEKtqQiPw5giXsrimmfFDqaFuysWe8MXsNCsvdwb4bTQZQrCnNogjQGwZk7v9zxdcjUgQ5XPp8fUruj'
     'tNci9ERxHGkemqBmNxEWTcPgY5sn347yq6BFcUGTpve6aJpaDUgaaTEQ3rfAgYeK7KhzEbYoJvSbqQ8u88aBNtu8ALVcEeRo4ei6sGjxMsmBAJW7vwW57KLzrvou4YEMA3saq6Xqtpg3sb': 'o1-node-snark-coordinator',
     'tNciczxpMfZ4eW1ZPP9NVK2vxcm9cCHvTBWMe8Nskn2A25P1YqcdvFCD5LvgngraiCmAsnC8zWAiv5pwMYjrUwpMNYDePMQYiXX7HVMjrnB1JkEckyayvsAm2Bo4EQBWbHXD5Cxp65PZy5': 'o1-node-faucet-tiny',
     'tNciQET6x3DhYmBVLXYRwqdRAtTMgH4tzZfU9vYGdSrnk3p9qvnB8JK5BcSou51gfZbvCrnoKhqUFKqbRi2qCWpKNhZS1j4txdEaNHDzBYVZScsCCZFJrgW2PyLMi7no6UVMnuCTSJ5nym': 'garethtdavies',
