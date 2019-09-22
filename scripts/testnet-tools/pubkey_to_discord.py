@@ -3,6 +3,7 @@
 # Example: 
 #   'tNciczxpMfZ4eW1ZPP9NVK2vxcm9cCHvTBWMe8Nskn2A25P1YqcdvFCD5LvgngraiCmAsnC8zWAiv5pwMYjrUwpMNYDePMQYiXX7HVMjrnB1JkEckyayvsAm2Bo4EQBWbHXD5Cxp65PZy5': 'DISCORD_USERNAME#1234',
 FILET_MIGNON_STAKING_CHALLENGE = {
+    'tNci7iuDyJDhv6ZYZLJbHjgEaU5h3s3nsKvJppxibw64St1nhXcjaJAvWmK4WPKHEKtqQiPw5giXsrimmfFDqaFuysWe8MXsNCsvdwb4bTQZQrCnNogjQGwZk7v9zxdcjUgQ5XPp8fUruj'
     'tNciPt5taz5rze7dF6TZSMUYtWzwoLKRfQxgCi8tT35HGsama9dmGqAZXNonv8m8dnbRe56H9zT63kVBSxTHjbeU5egZcqTFMpsCbCvV6sbMq44X45eguHSWhPtFodqfR7fPWXSLqFFBku': 'Dmitry D#9033',
     'tNciCpHoXJRiWYSsx4HZzMNJxRYmHt5yLJbF5fa6Yv9fR1m99a9KfgEgaFmtSkhbJ3eq2NzwdeHMAafGCAYjeKQ8tLoF34e3vPhtW9nYiEqJUJuZEsPZE9RRQWqyPuMPFSZdeqdj5dut5H': 'Alexander#4542',
     'tNciQ5nHMgNrzAWTkZx8Nc6fZVGTJ9xg9HEqGVE4SDoBXafsMAqbw5gU2Fx8Eq1ZNAD3YyxqqtsYdbrTm3kbMG3kGfX1D6WuQM4ZoeNDU6bHcMGF9MT9aM3d9HXWbFNf6XFtGAPBTJ8PHF': 'Prague',
@@ -17,6 +18,7 @@ FILET_MIGNON_STAKING_CHALLENGE = {
 
 # For Community Members
 OBSERVED_COMMUNITY_PUBLIC_KEYS = {
+    'tNci7iuDyJDhv6ZYZLJbHjgEaU5h3s3nsKvJppxibw64St1nhXcjaJAvWmK4WPKHEKtqQiPw5giXsrimmfFDqaFuysWe8MXsNCsvdwb4bTQZQrCnNogjQGwZk7v9zxdcjUgQ5XPp8fUruj'
     'tNci9ERxHGkemqBmNxEWTcPgY5sn347yq6BFcUGTpve6aJpaDUgaaTEQ3rfAgYeK7KhzEbYoJvSbqQ8u88aBNtu8ALVcEeRo4ei6sGjxMsmBAJW7vwW57KLzrvou4YEMA3saq6Xqtpg3sb': 'o1-node-snark-coordinator',
     'tNciczxpMfZ4eW1ZPP9NVK2vxcm9cCHvTBWMe8Nskn2A25P1YqcdvFCD5LvgngraiCmAsnC8zWAiv5pwMYjrUwpMNYDePMQYiXX7HVMjrnB1JkEckyayvsAm2Bo4EQBWbHXD5Cxp65PZy5': 'o1-node-faucet-tiny',
     'tNciQET6x3DhYmBVLXYRwqdRAtTMgH4tzZfU9vYGdSrnk3p9qvnB8JK5BcSou51gfZbvCrnoKhqUFKqbRi2qCWpKNhZS1j4txdEaNHDzBYVZScsCCZFJrgW2PyLMi7no6UVMnuCTSJ5nym': 'garethtdavies',
